@@ -17,11 +17,21 @@ The folder named data contains some datasets we used in our experiments. These d
 
 ### Requirements
 
-
+```
+Microsoft Visual Studio 2017
+```
 
 ### How to build
 
-
+1. Build a new project in Microsoft Visual Studio 2017.
+2. Move all the files inside src repo to the project source repo.
+```
+mv PATH_TO_REPO/SelfAdapativeCounters2018/src/* PATH_TO_PROJECT_SRC/
+```
+3. Move all the data files inside data repo to the project repo.
+```
+mv PATH_TO_REPO/SelfAdaptiveCounters2018/data/* PATH_TO_PROJECT/
+```
 
 ### Related paper
 *A Generic Technique for Sketches to Adapt to Different Counting Ranges*(submitted to ICNP 2018)
