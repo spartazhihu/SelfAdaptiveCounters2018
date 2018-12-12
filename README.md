@@ -24,4 +24,4 @@ The folder named data contains some datasets we used in our experiments. These d
 
 
 ### Related paper
-*A Generic Technique for Sketches to Adapt to Different Counting Ranges*(submitted to ICNP 2018)
+*A Generic Technique for Sketches to Adapt to Different Counting Ranges*(accepted by Infocom 2019)
